@@ -1,8 +1,8 @@
 # JavaScript - A02 - Projeto-Gerador-Cracha
 
-## Sobre
+## Criadores
 
-Este repositório contém os arquivos base para análise e implementação de de novas funcionalidades por parte dos alunos do curso técnico em desenvolvimento de sistemas.
+Feito por João Gabriel Bispo Fernandes e Arthur.V.Carreiro da Silva;
 
 ## Instruções
 
